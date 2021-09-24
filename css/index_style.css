@@ -8,6 +8,10 @@ body {
     font-family: 'Segoe UI light';
 }
 
+img {
+    cursor: pointer;
+}
+
 .item {
     position: relative;
 }
